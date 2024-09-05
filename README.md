@@ -13,6 +13,7 @@
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -67,6 +69,7 @@
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1036-rotting-oranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
