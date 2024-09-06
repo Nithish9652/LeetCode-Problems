@@ -10,22 +10,47 @@
  */
 class Solution {
 public:
+   bool checkElement(vector<int>& nums,int target){
+    int s=0;
+    int e=nums.size()-1;
+    int mid=(s+e)/2;
+    while(s<e){
+        if(nums[mid] == target) return true;
+        else if(nums[mid] < target){
+            s=mid+1;
+
+        }
+        else if(nums[mid] > target){
+            e=mid-1;
+            
+        }
+        mid=(s+e)/2;
+    }
+    if(nums[s] == target) return true;
+    
+    return false;
+
+
+   }
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        map<int,int> m;
-        for(int i=0;i<nums.size();i++){
-        m[nums[i]]++;
-        }
-        ListNode* dummy = new ListNode();
-        ListNode* ans = dummy;
-        
-        while(head != nullptr) {
-            if(m.find(head->val) == m.end()) {
-                ans->next = new ListNode(head->val);
-                ans = ans->next;
+        ListNode*dummy= new ListNode(-1);
+        ListNode* prev=dummy;
+        dummy->next = head;
+        sort(nums.begin(),nums.end());
+        while(head){
+            ListNode* next = head->next;
+            bool ans = checkElement(nums,head->val);
+            if(ans){
+                prev->next = head->next;
             }
-            head = head->next;
+            else{
+                prev=head;
+            }
+            head=next;
+
+
         }
+        return dummy->next; 
         
-        return dummy->next;
     }
 };
