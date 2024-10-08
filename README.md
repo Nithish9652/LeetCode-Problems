@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -137,11 +139,13 @@
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
@@ -182,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Counting
 |  |
