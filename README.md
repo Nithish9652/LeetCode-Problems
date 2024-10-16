@@ -123,6 +123,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
+| [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Stack
@@ -180,6 +182,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
