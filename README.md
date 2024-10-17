@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0057-insert-interval) |
+| [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -55,6 +56,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -95,6 +97,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -105,6 +108,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -114,6 +118,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
