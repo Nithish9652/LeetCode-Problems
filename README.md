@@ -35,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -114,6 +115,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -134,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -254,6 +257,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
