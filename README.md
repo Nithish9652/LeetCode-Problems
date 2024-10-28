@@ -29,6 +29,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -45,6 +46,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -86,6 +88,7 @@
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -288,4 +292,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+## Sorting
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
