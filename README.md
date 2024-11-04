@@ -186,6 +186,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -228,6 +229,7 @@
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Sorting
 |  |
 | ------- |
