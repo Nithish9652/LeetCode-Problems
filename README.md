@@ -33,6 +33,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -82,6 +83,7 @@
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -307,4 +310,5 @@
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
