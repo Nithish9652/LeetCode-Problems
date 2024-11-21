@@ -30,6 +30,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -81,6 +82,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Dynamic Programming
 |  |
