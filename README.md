@@ -11,6 +11,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
@@ -272,6 +273,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -418,6 +420,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
