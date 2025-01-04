@@ -85,6 +85,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
@@ -170,6 +171,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Linked List
@@ -254,6 +256,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -397,6 +400,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
