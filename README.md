@@ -35,6 +35,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -254,6 +255,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -499,6 +501,7 @@
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Indexed Tree
 |  |
