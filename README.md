@@ -103,6 +103,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -282,6 +283,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -425,6 +427,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Recursion
 |  |
 | ------- |
