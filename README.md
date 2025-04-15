@@ -48,6 +48,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -167,6 +168,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -456,11 +458,13 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Stack
 |  |
@@ -527,6 +531,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Combinatorics
 |  |
@@ -541,4 +546,12 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
