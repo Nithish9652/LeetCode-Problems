@@ -75,6 +75,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +113,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -445,6 +447,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
