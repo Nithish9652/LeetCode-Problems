@@ -30,6 +30,7 @@
 | [1002-maximum-width-ramp](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
@@ -359,6 +360,7 @@
 | [0670-maximum-swap](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
