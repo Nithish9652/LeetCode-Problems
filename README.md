@@ -36,6 +36,7 @@
 | [1073-number-of-enclaves](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -103,6 +104,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
@@ -464,6 +466,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
