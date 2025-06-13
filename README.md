@@ -327,6 +327,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -390,6 +391,7 @@
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
