@@ -358,6 +358,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -451,6 +452,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -572,6 +574,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -631,10 +634,12 @@
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
