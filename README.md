@@ -385,6 +385,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
