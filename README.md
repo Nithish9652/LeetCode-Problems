@@ -639,6 +639,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
