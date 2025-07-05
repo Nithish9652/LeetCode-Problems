@@ -50,6 +50,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -134,6 +135,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -585,6 +587,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
