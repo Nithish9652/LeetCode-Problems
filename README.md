@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0312-burst-balloons) |
@@ -236,6 +237,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
