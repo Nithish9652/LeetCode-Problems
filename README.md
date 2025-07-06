@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -605,6 +606,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
