@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
@@ -432,6 +434,7 @@
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -497,6 +500,7 @@
 | [0020-valid-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
@@ -658,6 +662,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
