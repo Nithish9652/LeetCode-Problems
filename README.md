@@ -235,6 +235,7 @@
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
@@ -568,6 +569,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -658,6 +660,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Segment Tree
@@ -715,6 +718,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -805,4 +809,8 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
