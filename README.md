@@ -123,6 +123,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -503,6 +504,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Stack
 |  |
 | ------- |
@@ -742,6 +744,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
