@@ -312,6 +312,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
@@ -563,6 +564,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-minimize-malware-spread) |
@@ -835,4 +837,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
