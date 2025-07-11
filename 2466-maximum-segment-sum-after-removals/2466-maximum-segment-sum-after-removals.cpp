@@ -1,56 +1,68 @@
-class Solution {
-public:
-    int n;
-    long long max_val=0;
-    vector<long long>parent,sum;
-    int find(int x)
-    {
-        if(x==parent[x])
-        {
-            return x;
-        }
-        return parent[x]=find(parent[x]);
-    }
-    void merge(int x,int y)
-    {
-        x=find(x);
-        y=find(y);
-        if(x==y)
-        {
-            return ;
-        }
-        sum[x]+=sum[y];
-        max_val=max(max_val,sum[x]);
-        parent[y]=x;
-    }
-    vector<long long> maximumSegmentSum(vector<int>& nums, vector<int>& r)
-    {
-        n=nums.size();
-        parent.resize(n+10);
-        sum.resize(n+10);
-        for(int i=0;i<n;i++)
-        {
-            sum[i]=nums[i];
+class Disjoint{
+    public:
+    vector<long long>parent,size,num;
+    Disjoint(int n){
+        parent.resize(n+1);
+        size.resize(n+1,1);
+        num.resize(n+1);
+        for(int i=0;i<=n;i++){
             parent[i]=i;
         }
-        vector<int>vis(n+1,0);
-        vector<long long>ans(n,0);
-         max_val=0;
-        for(int i=n-1;i>=0;i--)
-        {
-            ans[i]=max_val;
-            int index=r[i];
-            vis[index]=1;
-            max_val=max(max_val,1ll*nums[index]);
-            if(index+1<n&&vis[index+1])
-            {
-                merge(index,index+1);
-            }
-            if(index-1>=0&&vis[index-1])
-            {
-                merge(index,index-1);
-            }
+    }
+    int findUpar(int node){
+        if(node==parent[node]){
+            return node;
         }
+        return parent[node]=findUpar(parent[node]);
+    }
+
+    void UnionBySize(int u,int v){
+        int ulp_u=findUpar(u);
+        int ulp_v=findUpar(v);
+        if(ulp_u==ulp_v)return;
+        if(size[ulp_u]>size[ulp_v]){
+            parent[ulp_v]=ulp_u;
+            size[ulp_u]+=size[ulp_v];
+            num[ulp_u]+=num[ulp_v];
+        }
+        else{
+            parent[ulp_u]=ulp_v;
+            size[ulp_v]+=size[ulp_u];
+            num[ulp_v]+=num[ulp_u];
+        }
+    }
+};
+class Solution {
+public:
+    vector<long long> maximumSegmentSum(vector<int>& nums, vector<int>& removeQueries) {
+        int n=nums.size();
+        int m=removeQueries.size();
+        vector<long long>ans;
+        Disjoint ds(n);
+        ans.push_back(0);
+        vector<int>present(n,0);
+        for(int i=0;i<n;i++){
+            ds.num[i]=nums[i];     //giving oject num the same value of nums
+        }
+        long long maxa=0;
+        for(int i=m-1;i>=0;i--){
+            int cur_ind=removeQueries[i];
+            present[cur_ind]=1;
+            if(cur_ind-1>=0 && present[cur_ind-1]==1){
+                ds.UnionBySize(cur_ind,cur_ind-1);              //if left is present then merge it
+            }
+            if(cur_ind+1<n && present[cur_ind+1]==1){
+                ds.UnionBySize(cur_ind,cur_ind+1);              //if right is present then merge it also with current index
+            }
+            maxa=max(maxa,ds.num[ds.findUpar(cur_ind)]);        //take maximum at each merge
+            ans.push_back(maxa);
+        }
+        // for(auto it:ans){
+        //     cout<<it<<" ";
+        // }
+        ans.pop_back();                     //at last we get total sum value also we not need this so just removed
+        reverse(ans.begin(),ans.end());     
         return ans;
+        
     }
 };
