@@ -19,6 +19,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -221,6 +222,7 @@
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
@@ -393,6 +395,7 @@
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -678,6 +681,7 @@
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -721,6 +725,7 @@
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
