@@ -201,6 +201,7 @@
 | [0670-maximum-swap](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -311,6 +312,7 @@
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
