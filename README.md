@@ -125,6 +125,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -505,6 +506,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3551-maximum-xor-score-subarray-queries) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
