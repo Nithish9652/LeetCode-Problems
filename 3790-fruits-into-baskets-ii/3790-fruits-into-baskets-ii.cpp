@@ -1,19 +1,21 @@
 class Solution {
 public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
-        multiset<int> availableBaskets(baskets.begin(), baskets.end());
-        int unplaced = 0;
-        
-        for (int fruit : fruits) {
-            auto it = availableBaskets.lower_bound(fruit);
-            
-            if (it == availableBaskets.end()) {
-                unplaced++;
-            } else {
-                availableBaskets.erase(it);
+        int n = fruits.size();
+        int ans = 0;
+        for(int i=0;i<n;i++){
+          bool flag = false;
+          for(int j=0;j<n;j++){
+             if(fruits[i]<=baskets[j]){
+                baskets[j]=INT_MIN;
+                 flag = true;
+                 break;
+             }
+          }
+            if(!flag){
+             ans++;
             }
         }
-        
-        return unplaced;
+        return ans;
     }
 };
