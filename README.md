@@ -150,6 +150,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -761,6 +763,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -771,6 +774,7 @@
 | [2466-maximum-segment-sum-after-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
