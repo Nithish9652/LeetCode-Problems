@@ -220,6 +220,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -523,6 +524,7 @@
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -932,4 +934,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
