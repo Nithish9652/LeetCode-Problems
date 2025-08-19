@@ -360,6 +360,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -391,6 +392,7 @@
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -621,6 +623,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -640,6 +643,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
