@@ -138,6 +138,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -212,6 +213,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -771,6 +773,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
