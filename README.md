@@ -172,6 +172,7 @@
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -232,6 +233,7 @@
 | [0060-permutation-sequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
@@ -470,6 +472,7 @@
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
