@@ -255,6 +255,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -542,6 +543,7 @@
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
+| [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
