@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -176,6 +177,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0174-dungeon-game) |
