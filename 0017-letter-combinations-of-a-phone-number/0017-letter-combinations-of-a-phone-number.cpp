@@ -1,33 +1,29 @@
 class Solution {
 public:
-    vector<string> letterCombinations(string digits) {
-        if (digits.empty()) {
-            return {};
+    void f(vector<string>& ans,map<char,string> m,string s,string cur,int idx){
+         if(idx==s.length()){
+          ans.push_back(cur);
+          return;
+         }
+        for (char d : m[s[idx]]) {
+        f(ans, m, s, cur + d, idx + 1);
         }
-
-        unordered_map<char, string> digitMapping = {
-            {'2', "abc"}, {'3', "def"}, {'4', "ghi"},
-            {'5', "jkl"}, {'6', "mno"}, {'7', "pqrs"},
-            {'8', "tuv"}, {'9', "wxyz"}
-        };
-
-        vector<string> combinations;
-        backtrack(0, "", digits, digitMapping, combinations);
-        return combinations;
     }
-
-private:
-    void backtrack(int index, string path, const string& digits,
-                   const unordered_map<char, string>& letters,
-                   vector<string>& combinations) {
-        if (path.size() == digits.size()) {
-            combinations.push_back(path);
-            return;
+    vector<string> letterCombinations(string s) {
+        if(s==""){
+         return {};
         }
-
-        string possibleLetters = letters.at(digits[index]);
-        for (char letter : possibleLetters) {
-            backtrack(index + 1, path + letter, digits, letters, combinations);
-        }
+        map<char,string> m;
+        m['2']="abc";
+        m['3']="def";
+        m['4']="ghi";
+        m['5']="jkl";
+        m['6']="mno";
+        m['7']="pqrs";
+        m['8']="tuv";
+        m['9']="wxyz";
+        vector<string> ans;
+        f(ans,m,s,"",0);
+        return ans;
     }
 };
