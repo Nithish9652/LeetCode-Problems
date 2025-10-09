@@ -501,6 +501,7 @@
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
@@ -593,6 +594,7 @@
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -907,6 +909,7 @@
 | [0052-n-queens-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
