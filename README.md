@@ -15,6 +15,7 @@
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -291,6 +292,7 @@
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0174-dungeon-game) |
@@ -403,6 +405,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0130-surrounded-regions) |
@@ -489,6 +492,7 @@
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
@@ -897,6 +901,7 @@
 | [0046-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
