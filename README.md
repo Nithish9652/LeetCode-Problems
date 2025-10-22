@@ -173,6 +173,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -390,6 +391,7 @@
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
@@ -850,6 +852,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1019,6 +1022,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1040,6 +1044,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
