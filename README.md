@@ -31,6 +31,7 @@
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -348,6 +349,7 @@
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
