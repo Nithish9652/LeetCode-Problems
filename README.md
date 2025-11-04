@@ -33,6 +33,7 @@
 | [0212-word-search-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
+| [0238-product-of-array-except-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -878,6 +879,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
