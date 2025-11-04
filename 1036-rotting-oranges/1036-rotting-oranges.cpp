@@ -1,47 +1,44 @@
 class Solution {
 public:
+    vector<vector<int>> dir = {{0,1},{1,0},{-1,0},{0,-1}};
     int orangesRotting(vector<vector<int>>& grid) {
-        int rows = grid.size();
-        int cols = grid[0].size();
-        vector<bool> vis(rows * cols, false);
-        vector<vector<int>> adj(rows * cols);
-        queue<pair<int, int>> q;
-        int fresh = 0;
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == 2) {
-                    q.push({i, j});
-                    vis[i * cols + j] = true;
-                } else if (grid[i][j] == 1) {
-                    fresh++;
-                }
-                if (i > 0 && grid[i-1][j] != 0) adj[i * cols + j].push_back((i-1) * cols + j);  
-                if (i < rows - 1 && grid[i+1][j] != 0) adj[i * cols + j].push_back((i+1) * cols + j);  
-                if (j > 0 && grid[i][j-1] != 0) adj[i * cols + j].push_back(i * cols + (j-1));  
-                if (j < cols - 1 && grid[i][j+1] != 0) adj[i * cols + j].push_back(i * cols + (j+1)); 
-            }
+        int c = 0;
+        int n = grid.size();
+        int m = grid[0].size();
+        queue<pair<int,int>> q;
+        for(int i=0;i<n;i++){
+           for(int j=0;j<m;j++){
+             if(grid[i][j]==1){
+               c++;
+             }
+             else if(grid[i][j]==2){
+              q.push({i,j});
+             }
+           } 
         }
-        if (fresh == 0) return 0;  
-        int minutes = -1;
-        while (!q.empty()) {
-            int size = q.size();
-            minutes++;
-            while (size--) {
-                auto [x, y] = q.front();
-                q.pop();
-                int node = x * cols + y;
-                for (int neighbor : adj[node]) {
-                    int nx = neighbor / cols;
-                    int ny = neighbor % cols;
-                    if (!vis[neighbor] && grid[nx][ny] == 1) {
-                        grid[nx][ny] = 2;
-                        q.push({nx, ny});
-                        vis[neighbor] = true;
-                        fresh--;
-                    }
-                }
-            }
+        int ans = 0;
+        while(!q.empty()){
+           int k = q.size();
+           while(k--){
+           int x = q.front().first;
+           int y = q.front().second;
+           q.pop();
+           for(auto it:dir){
+             int nx = it[0]+x,ny = it[1]+y;
+             if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]==1){
+               q.push({nx,ny});
+               grid[nx][ny] = 2;
+               c--;
+             }
+           }
+           }
+           if(!q.empty()){
+           ans++;
+           }
         }
-        return fresh == 0 ? minutes : -1;
+        if(c>0){
+         return -1;
+        }
+        return ans;
     }
 };
