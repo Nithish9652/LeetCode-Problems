@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -650,6 +651,7 @@
 | [0010-regular-expression-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -1151,6 +1153,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
