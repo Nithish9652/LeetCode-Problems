@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0015-3sum) |
@@ -207,6 +208,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
