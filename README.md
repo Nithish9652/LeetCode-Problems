@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -656,6 +657,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -716,6 +718,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0670-maximum-swap) |
