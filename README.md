@@ -48,6 +48,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -215,6 +216,7 @@
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -898,6 +900,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
