@@ -152,6 +152,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -419,6 +420,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -758,6 +760,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -915,6 +918,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2466-maximum-segment-sum-after-removals) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1115,6 +1119,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
@@ -1132,6 +1137,7 @@
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
