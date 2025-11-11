@@ -48,6 +48,7 @@
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -578,6 +579,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
@@ -688,6 +690,7 @@
 | [0312-burst-balloons](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
