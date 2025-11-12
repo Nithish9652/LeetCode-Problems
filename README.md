@@ -162,6 +162,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
@@ -318,6 +319,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -906,6 +908,7 @@
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
