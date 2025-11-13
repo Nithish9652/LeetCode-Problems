@@ -382,6 +382,7 @@
 | [0015-3sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -468,6 +469,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0725-split-linked-list-in-parts) |
@@ -1100,6 +1102,7 @@
 | [0015-3sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
@@ -1215,6 +1218,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1224,6 +1228,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Data Stream
