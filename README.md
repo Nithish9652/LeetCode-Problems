@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0079-word-search) |
@@ -646,6 +648,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
