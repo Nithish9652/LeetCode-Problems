@@ -50,6 +50,7 @@
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
@@ -237,6 +238,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0645-set-mismatch) |
