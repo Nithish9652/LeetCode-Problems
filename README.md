@@ -81,6 +81,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -471,6 +472,7 @@
 | [0476-number-complement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
