@@ -848,6 +848,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -1064,6 +1065,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -1221,6 +1223,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
