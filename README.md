@@ -57,6 +57,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -454,6 +455,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
@@ -1105,6 +1107,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1116,6 +1119,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [2023-design-movie-rental-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1283,6 +1287,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Combinatorics
@@ -1318,6 +1323,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1327,6 +1333,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Data Stream
