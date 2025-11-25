@@ -328,6 +328,7 @@
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -419,6 +420,7 @@
 | [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -445,6 +447,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
