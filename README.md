@@ -655,6 +655,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0394-decode-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
@@ -893,6 +894,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1086,6 +1088,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
