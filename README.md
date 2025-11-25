@@ -79,6 +79,7 @@
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
@@ -338,6 +339,7 @@
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+| [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1312,6 +1314,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
