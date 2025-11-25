@@ -429,6 +429,7 @@
 | [0283-move-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0481-magical-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
@@ -649,6 +650,7 @@
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
 | [0459-repeated-substring-pattern](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
