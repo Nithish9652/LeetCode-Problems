@@ -257,6 +257,7 @@
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -651,6 +652,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0424-longest-repeating-character-replacement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0481-magical-string) |
@@ -1245,6 +1247,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
