@@ -571,6 +571,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -609,6 +610,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -628,6 +630,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2466-maximum-segment-sum-after-removals) |
 ## String
 |  |
@@ -974,6 +977,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
