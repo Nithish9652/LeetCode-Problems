@@ -635,6 +635,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
+| [0831-masking-personal-information](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0831-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
