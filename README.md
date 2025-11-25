@@ -628,6 +628,7 @@
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0459-repeated-substring-pattern](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0520-detect-capital) |
@@ -1249,6 +1250,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
