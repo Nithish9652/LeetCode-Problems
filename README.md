@@ -276,6 +276,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -668,6 +669,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1246,6 +1248,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
