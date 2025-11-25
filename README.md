@@ -479,6 +479,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -690,6 +691,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1299,6 +1301,7 @@
 | [1392-longest-happy-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
@@ -1324,6 +1327,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
@@ -1331,6 +1335,7 @@
 | [0214-shortest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
@@ -1411,4 +1416,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
