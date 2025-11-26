@@ -1009,6 +1009,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -1040,6 +1041,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2479-meeting-rooms-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1056,6 +1058,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Number Theory
 |  |
@@ -1166,6 +1169,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2169-simple-bank-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
 | ------- |
