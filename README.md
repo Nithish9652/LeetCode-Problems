@@ -75,6 +75,7 @@
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -269,6 +270,7 @@
 | [0645-set-mismatch](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -610,6 +612,7 @@
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
+| [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
 | [0945-snakes-and-ladders](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
