@@ -570,6 +570,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
@@ -609,6 +610,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
@@ -990,6 +992,7 @@
 | [0210-course-schedule-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0801-is-graph-bipartite) |
 | [0960-minimize-malware-spread](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-minimize-malware-spread) |
@@ -1017,6 +1020,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0743-network-delay-time](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -1046,6 +1050,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
