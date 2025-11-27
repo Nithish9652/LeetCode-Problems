@@ -214,6 +214,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -321,6 +322,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1092,6 +1094,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
