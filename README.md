@@ -79,6 +79,7 @@
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -359,6 +360,7 @@
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -413,6 +415,7 @@
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
@@ -1452,6 +1455,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
