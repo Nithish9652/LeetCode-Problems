@@ -350,6 +350,7 @@
 | [0149-max-points-on-a-line](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0223-rectangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -1460,6 +1461,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
