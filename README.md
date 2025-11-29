@@ -75,6 +75,7 @@
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -357,6 +358,7 @@
 | [0679-24-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -1454,6 +1456,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
