@@ -264,6 +264,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -555,6 +556,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -1181,6 +1183,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -1504,4 +1507,8 @@
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
