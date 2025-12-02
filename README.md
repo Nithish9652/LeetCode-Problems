@@ -236,6 +236,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3639-zero-array-transformation-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -339,6 +340,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -403,6 +405,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1480,6 +1483,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## Brainteaser
 |  |
 | ------- |
