@@ -393,6 +393,7 @@
 | [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -756,6 +757,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
@@ -876,6 +878,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
