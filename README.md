@@ -93,6 +93,7 @@
 | [0945-snakes-and-ladders](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0960-minimize-malware-spread](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-minimize-malware-spread) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
@@ -737,6 +738,7 @@
 | [0831-masking-personal-information](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0831-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1032-stream-of-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 | [1250-longest-common-subsequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -865,6 +867,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
