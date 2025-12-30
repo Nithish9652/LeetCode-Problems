@@ -79,6 +79,7 @@
 | [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
@@ -292,6 +293,7 @@
 | [0768-partition-labels](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0815-bus-routes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0815-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -386,6 +388,7 @@
 | [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -445,6 +448,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
