@@ -146,6 +146,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
@@ -462,6 +463,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1765-map-of-highest-peak](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -534,6 +536,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -629,6 +632,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -676,6 +680,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1765-map-of-highest-peak](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -698,6 +703,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
