@@ -149,6 +149,7 @@
 | [1929-concatenation-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -467,6 +468,7 @@
 | [1765-map-of-highest-peak](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -954,6 +956,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
