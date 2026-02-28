@@ -408,6 +408,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -577,6 +578,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -839,6 +841,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
