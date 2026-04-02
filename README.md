@@ -233,6 +233,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3453-separate-squares-i) |
@@ -481,6 +482,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Two Pointers
@@ -931,6 +933,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
