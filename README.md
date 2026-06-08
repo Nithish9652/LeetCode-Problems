@@ -162,6 +162,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -516,6 +517,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -861,6 +863,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
