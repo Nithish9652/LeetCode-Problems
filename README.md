@@ -232,6 +232,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -491,6 +492,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -711,6 +713,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1157,6 +1160,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1171,6 +1175,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -1625,4 +1630,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0460-lfu-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
