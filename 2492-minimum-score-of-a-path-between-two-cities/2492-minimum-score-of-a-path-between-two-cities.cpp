@@ -19,7 +19,7 @@ public:
             int u = q.front(); q.pop();
             for (auto &p : g[u]) {
                 int v = p.first, w = p.second;
-                ans = min(ans, w);      // track smallest edge seen in component of 1
+                ans = min(ans, w);      
                 if (!vis[v]) {
                     vis[v] = 1;
                     q.push(v);
