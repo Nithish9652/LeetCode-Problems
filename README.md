@@ -1365,6 +1365,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
