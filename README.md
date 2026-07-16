@@ -276,6 +276,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -455,6 +456,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -533,6 +535,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -891,6 +894,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1189,6 +1193,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1443,6 +1448,7 @@
 | [3606-coupon-code-validator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
