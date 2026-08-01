@@ -60,6 +60,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -405,6 +406,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
@@ -942,6 +944,7 @@
 | [0322-coin-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
@@ -1291,6 +1294,7 @@
 | [0234-palindrome-linked-list](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1644,6 +1648,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
