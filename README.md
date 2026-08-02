@@ -83,6 +83,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0890-lemonade-change](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -419,6 +420,7 @@
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
@@ -950,6 +952,7 @@
 | [0647-palindromic-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
@@ -1649,6 +1652,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
