@@ -272,6 +272,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-find-missing-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -388,6 +389,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3731-find-missing-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1487,6 +1489,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3606-coupon-code-validator) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3731-find-missing-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
