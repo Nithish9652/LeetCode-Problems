@@ -458,6 +458,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1419,6 +1420,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
