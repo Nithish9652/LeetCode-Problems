@@ -447,6 +447,7 @@
 | [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -845,6 +846,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1047,6 +1049,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1690,6 +1693,7 @@
 | [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
 |  |
