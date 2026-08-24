@@ -150,6 +150,7 @@
 | [1813-maximum-erasure-value](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -447,6 +448,7 @@
 | [1642-water-bottles](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2050-count-good-numbers) |
@@ -994,6 +996,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1266,6 +1269,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -1693,6 +1697,7 @@
 | [0486-predict-the-winner](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -1739,4 +1744,12 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
