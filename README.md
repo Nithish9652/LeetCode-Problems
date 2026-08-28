@@ -570,6 +570,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -905,6 +906,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1458,6 +1460,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
