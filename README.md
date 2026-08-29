@@ -230,6 +230,7 @@
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1519,6 +1520,7 @@
 | [2751-robot-collisions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1747,6 +1749,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimax
 |  |
 | ------- |
