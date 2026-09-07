@@ -841,6 +841,7 @@
 | [0796-rotate-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0831-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1032-stream-of-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1032-stream-of-characters) |
@@ -994,6 +995,7 @@
 | [0826-soup-servings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0877-stone-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
