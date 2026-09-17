@@ -134,6 +134,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -351,6 +352,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
@@ -614,6 +616,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1014,6 +1017,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1581,6 +1585,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
