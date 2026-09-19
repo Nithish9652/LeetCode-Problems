@@ -452,6 +452,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1500-count-largest-group) |
@@ -1730,6 +1731,7 @@
 | [0812-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0830-largest-triangle-area](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3623-count-number-of-trapezoids-i) |
