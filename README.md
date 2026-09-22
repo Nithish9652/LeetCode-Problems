@@ -267,6 +267,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3551-maximum-xor-score-subarray-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -492,6 +493,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1430,6 +1432,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
