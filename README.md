@@ -149,6 +149,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1765-map-of-highest-peak](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -360,6 +361,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1612-avoid-flood-in-the-city) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -879,6 +881,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1927-sum-game](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
