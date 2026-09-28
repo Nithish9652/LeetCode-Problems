@@ -878,6 +878,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1152,6 +1153,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1818,4 +1820,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
