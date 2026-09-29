@@ -428,6 +428,7 @@
 | [0062-unique-paths](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1002,6 +1003,7 @@
 | [0070-climbing-stairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -1167,6 +1169,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -1198,6 +1201,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -1775,6 +1779,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting Sort
