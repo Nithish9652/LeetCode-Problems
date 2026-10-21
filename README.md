@@ -963,6 +963,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
