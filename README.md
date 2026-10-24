@@ -487,6 +487,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2485-find-the-pivot-integer) |
@@ -920,6 +921,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
