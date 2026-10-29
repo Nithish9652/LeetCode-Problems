@@ -304,6 +304,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -698,6 +699,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
@@ -769,6 +771,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -974,6 +977,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -1226,6 +1230,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1480,6 +1485,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1702,6 +1708,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1748,6 +1755,7 @@
 | [0912-sort-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0932-beautiful-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
