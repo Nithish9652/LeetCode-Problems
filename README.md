@@ -264,6 +264,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3427-special-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3453-separate-squares-i) |
@@ -1210,6 +1211,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Tree
 |  |
@@ -1497,6 +1499,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1529,6 +1532,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Nithish9652/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2227-sum-of-subarray-ranges) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -1681,6 +1685,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1698,6 +1703,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1705,6 +1711,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2868-continuous-subarrays](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String Matching
 |  |
 | ------- |
