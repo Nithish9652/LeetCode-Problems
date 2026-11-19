@@ -220,6 +220,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1158,6 +1159,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1633,6 +1635,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2554-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Nithish9652/LeetCode-Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
